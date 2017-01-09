@@ -1,10 +1,6 @@
 # README #
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
 This is a simple implementation for runnning background tasks in vim.
 
 ### How do I get set up? ###
