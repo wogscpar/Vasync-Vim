@@ -12,6 +12,7 @@ Setup:
 5. Place the scheduler.py in the .vim/ftplugin/python
 7. Done!
 
+### How to use ###
 Run a command such as 'python some_script.py test.txt' with:
 
 :RScript "python some_script.py test.txt"
@@ -27,4 +28,5 @@ To check which processes that are running:
 ### Who do I talk to? ###
 
 Owner: Oscar Svensson
+
 Email: wgcp92@gmail.com
