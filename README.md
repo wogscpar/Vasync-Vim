@@ -13,12 +13,15 @@ Setup:
 7. Done!
 
 Run a command such as 'python some_script.py test.txt' with:
+
 :RScript "python some_script.py test.txt"
 
 To check if any background task is finished:
+
 :RScriptMessages
 
 To check which processes that are running:
+
 :RScriptProcesses
 
 ### Who do I talk to? ###
