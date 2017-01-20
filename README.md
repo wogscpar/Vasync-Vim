@@ -15,6 +15,8 @@ Setup:
 
 5. Place the scheduler.py in the .vim/ftplugin/python
 
+6. Add source ~/.vim/frplugin/my_python.vim to your .vimrc
+
 7. Done!
 
 ### How to use ###
@@ -29,6 +31,10 @@ To check if any background task is finished:
 To check which processes that are running:
 
 :RScriptProcesses
+
+To kill a process:
+
+:RScriptProcessesKill "ProcessID"
 
 ### Who do I talk to? ###
 
