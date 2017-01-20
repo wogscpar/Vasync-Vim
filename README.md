@@ -6,10 +6,15 @@ This is a simple implementation for runnning background tasks in vim.
 ### How do I get set up? ###
 Setup:
 1. Download the repository.
+
 2. Create a .vim/ftplugin directory in your home directory if non exists.
+
 3. Place the my_python.vim file directly in the ftplugin directory.
+
 4. Create a .vim/ftplugin/python directory.
+
 5. Place the scheduler.py in the .vim/ftplugin/python
+
 7. Done!
 
 ### How to use ###
