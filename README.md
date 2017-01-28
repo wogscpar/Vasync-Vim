@@ -1,7 +1,7 @@
 # README #
 ### What is this repository for? ###
 
-This is a simple implementation for runnning background tasks in vim.
+This is a simple implementation for runnning background tasks in vim 7.
 
 ### How do I get set up? ###
 Setup:
